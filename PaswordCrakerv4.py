@@ -34,4 +34,12 @@ def crack_password(hash):
 crack_password(hash) 
 
 
+# 12 hs is the total development time for this assignmet.
+
+# I run into trouble importing functions. I Got more and worst issues with compatibility, 
+# and problems importing modules for other assignments. Like Web scrapper. 
+# Steven H Johnson told me "Python works on a Mac, but has quirks." 
+
+   
+
 
